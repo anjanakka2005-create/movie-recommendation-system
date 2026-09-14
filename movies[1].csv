@@ -1,0 +1,46 @@
+Movie_ID,Movie_Title,Genre,Rating,Year
+1,Inception,Sci-Fi|Drama|Mystery,8.8,2010
+2,Interstellar,Sci-Fi|Drama|Adventure,8.7,2014
+3,The Martian,Sci-Fi|Drama|Adventure,8.0,2015
+4,Arrival,Sci-Fi|Drama|Mystery,7.9,2016
+5,Gravity,Sci-Fi|Drama|Thriller,7.7,2013
+6,Blade Runner 2049,Sci-Fi|Drama|Mystery,8.0,2017
+7,Dune,Sci-Fi|Drama|Adventure,8.0,2021
+8,Ex Machina,Sci-Fi|Drama|Mystery,7.7,2014
+9,The Dark Knight,Action|Crime|Drama,9.0,2008
+10,Pulp Fiction,Crime|Drama,8.9,1994
+11,The Godfather,Crime|Drama,9.2,1972
+12,The Matrix,Sci-Fi|Action,8.7,1999
+13,Avengers: Endgame,Action|Adventure|Fantasy,8.4,2019
+14,Spider-Man: Into the Spider-Verse,Animation|Action|Adventure,8.4,2018
+15,Spirited Away,Animation|Adventure|Family,8.6,2001
+16,Coco,Animation|Family|Music,8.4,2017
+17,Toy Story,Animation|Adventure|Comedy,8.3,1995
+18,Up,Animation|Adventure|Comedy,8.3,2009
+19,The Hangover,Comedy,7.7,2009
+20,Superbad,Comedy,7.6,2007
+21,Parasite,Drama|Thriller|Comedy,8.5,2019
+22,Whiplash,Drama|Music,8.5,2014
+23,The Shawshank Redemption,Drama,9.3,1994
+24,Forrest Gump,Drama|Romance,8.8,1994
+25,La La Land,Comedy|Drama|Music,8.0,2016
+26,Titanic,Drama|Romance,7.9,1997
+27,The Notebook,Drama|Romance,7.8,2004
+28,Goodfellas,Biography|Crime|Drama,8.7,1990
+29,Fight Club,Drama,8.8,1999
+30,Se7en,Crime|Drama|Mystery,8.6,1995
+31,The Silence of the Lambs,Crime|Drama|Thriller,8.6,1991
+32,Shutter Island,Mystery|Thriller,8.2,2010
+33,Get Out,Horror|Mystery|Thriller,7.8,2017
+34,A Quiet Place,Drama|Horror|Sci-Fi,7.5,2018
+35,Gladiator,Action|Adventure|Drama,8.5,2000
+36,Mad Max: Fury Road,Action|Adventure|Thriller,8.1,2015
+37,John Wick,Action|Crime|Thriller,7.4,2014
+38,Die Hard,Action|Thriller,8.2,1988
+39,Finding Nemo,Animation|Adventure|Comedy,8.2,2003
+40,The Grand Budapest Hotel,Comedy|Drama,8.1,2014
+41,Knives Out,Comedy|Crime|Mystery,7.9,2019
+42,Oppenheimer,Biography|Drama|History,8.9,2023
+43,Tenet,Action|Sci-Fi|Thriller,7.3,2020
+44,2001: A Space Odyssey,Sci-Fi|Adventure,8.3,1968
+45,Back to the Future,Adventure|Comedy|Sci-Fi,8.5,1985
